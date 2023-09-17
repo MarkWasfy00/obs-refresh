@@ -1,0 +1,53 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "92ef4e0911efcce419b598b857bddf73a04fb56d5f130096a2bb722e831bd73f"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "obsws-python": {
+            "hashes": [
+                "sha256:6339aec4fd61adaa52008b22859f818e7247c5d6a74d78f2f1914a5d0edbd67e",
+                "sha256:7055dca9d3e5523d350ac969b80def5f14907c05cb6599038c497a574ebbb3e4"
+            ],
+            "index": "pypi",
+            "version": "==1.6.0"
+        },
+        "schedule": {
+            "hashes": [
+                "sha256:415908febaba0bc9a7c727a32efb407d646fe994367ef9157d123aabbe539ea8",
+                "sha256:b4ad697aafba7184c9eb6a1e2ebc41f781547242acde8ceae9a0a25b04c0922d"
+            ],
+            "index": "pypi",
+            "version": "==1.2.0"
+        },
+        "toml": {
+            "hashes": [
+                "sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b",
+                "sha256:b3bda1d108d5dd99f4a20d24d9c348e91c4db7ab1b749200bded2f839ccbe68f"
+            ],
+            "index": "pypi",
+            "version": "==0.10.2"
+        },
+        "websocket-client": {
+            "hashes": [
+                "sha256:3aad25d31284266bcfcfd1fd8a743f63282305a364b8d0948a43bd606acc652f",
+                "sha256:6cfc30d051ebabb73a5fa246efdcc14c8fbebbd0330f8984ac3bb6d9edd2ad03"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==1.6.3"
+        }
+    },
+    "develop": {}
+}

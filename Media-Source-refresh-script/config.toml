@@ -1,0 +1,7 @@
+[obs]
+    host = "localhost"
+    port = 4444
+    password = "password"
+[settings]
+    source_name = "source"
+    refresh_time = 10
